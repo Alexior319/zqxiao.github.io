@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, National Universy of Defense Technology, 2025 (Expected)
+* B.S. in Autonomous Engineering, Central South University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* 2022.01 - 2022.08: High Frequency Trading System Developer (*intern*)
+  * *Some Hedge Fund*, Changsha, China
+  * Duties includes: developing infra components(in charge of the logging system), maintaining the trading system 
+  <!-- * Supervisor: The Users -->
+<!-- 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
@@ -30,24 +29,24 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Python
+* ROS / ROS2
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* OCP: An Online Contingent Planning Method for Robot Tasks with Incomplete Knowledge, 1st author, accepted by [ICIC 2024](http://www.ic-icc.cn/2024/index.htm)
+* Towards Contingent Plan Optimization by Action Parallelization and Graph-based Transformation, 1st author, submitted to [PRICAI 2024](https://pricai.org/2024/)
   
-Talks
+  <!-- <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
