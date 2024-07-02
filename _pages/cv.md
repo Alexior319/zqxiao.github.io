@@ -41,23 +41,3 @@ Publications
 ======
 * OCP: An Online Contingent Planning Method for Robot Tasks with Incomplete Knowledge, 1st author, accepted by [ICIC 2024](http://www.ic-icc.cn/2024/index.htm)
 * Towards Contingent Plan Optimization by Action Parallelization and Graph-based Transformation, 1st author, submitted to [PRICAI 2024](https://pricai.org/2024/)
-  
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
