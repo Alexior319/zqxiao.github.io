@@ -19,17 +19,6 @@ Work experience
 * 2022.01 - 2022.08: High Frequency Trading System Developer (*intern*)
   * *Some Hedge Fund*, Changsha, China
   * Duties includes: developing infra components(in charge of the logging system), maintaining the trading system 
-  <!-- * Supervisor: The Users -->
-<!-- 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
   
 Skills
 ======
