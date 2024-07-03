@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhiqun Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Zhiqun Xiao"
-description              : &description "Persuing Master's degree in National University of Defense Technology"
+description              : &description "Pursuing Master's degree in National University of Defense Technology"
 url                      : https://alexior319.github.io/zqxiao.me/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Alexior319/alexior319.github.io/zqxiao.me/"
@@ -24,7 +24,7 @@ author:
   avatar           : "231217hengshan.jpg"
   name             : "Zhiqun Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Persuing Master's degree in National University of Defense Technology"
+  bio              : "Pursuing Master's degree in National University of Defense Technology"
   location         : "Changsha, China"
   employer         : "National University of Defense Technology"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  # linkedin         : # Username
+  linkedin         : "Zhiqun Xiao"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username

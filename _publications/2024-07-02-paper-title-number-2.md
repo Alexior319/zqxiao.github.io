@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-07-02-paper-title-number-2
 excerpt: 'This paper introduces an optimization method to parallelize a contingent plan.'
 date: 2024-07-02
-venue: 'AiXiv'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+venue: '(submitted to PRICAI 2024)'
+slidesurl: ''
+paperurl: ''
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces an optimization method to parallelize a contingent plan. When utilizing contingent planning methods in robot tasks, we noticed that executing the plan tree node by node is inefficient. To improve the execution efficiency, we seek to parallelize some actions in the original tree.
