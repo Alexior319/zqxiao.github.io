@@ -17,7 +17,7 @@ Education
 
 Working Experience
 ======
-- 2022.01 - 2022.08, *Some Hedge Fund*, Changsha, High Frequency Trading System Developer *(intern)*.
+- 2022.01 - 2022.08, *A Certain Quantitative Hedge Fund*, Changsha, High Frequency Trading System Developer *(intern)*.
 
 Research Interest
 ======

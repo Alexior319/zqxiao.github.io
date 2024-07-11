@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2022.01 - 2022.08: High Frequency Trading System Developer (*intern*)
-  * *Some Hedge Fund*, Changsha, China
+  * *A Certain Quantitative Hedge Fund*, Changsha, China
   * Duties includes: developing infra components(in charge of the logging system), maintaining the trading system 
   
 Skills
