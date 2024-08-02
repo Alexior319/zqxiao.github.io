@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postgraduate student in grade two, pursing my master's degree in [National University of Defense Technology](https://www.nudt.edu.cn/), China. 
+I am currently a postgraduate student in [National University of Defense Technology](https://www.nudt.edu.cn/), China. 
 
 
 Education
@@ -21,6 +21,7 @@ Working Experience
 
 Research Interest
 ======
+- Software Engineering
 - AI Planning
 - Robotics
 - Reinforcement Learning
